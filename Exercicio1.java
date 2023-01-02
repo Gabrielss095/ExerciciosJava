@@ -27,5 +27,9 @@ public class Exercicio1 {
 		{
 			System.out.printf("O número %d é impar e é negativo", a);
 		}
+		else
+		{
+			System.out.printf("Opção inválida!")
+		}
 	}
 }
