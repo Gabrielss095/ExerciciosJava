@@ -27,11 +27,6 @@ public class Exercicio2For {
 	}
 }
 
-
-package PacoteJava;
-
-import java.util.Scanner;
-
 public class Exercicio3While {
 	public static void main(String args[])
 	{
@@ -56,10 +51,6 @@ public class Exercicio3While {
 		System.out.println("Total de pessoas maiores de 50 anos: "+maior50);
 	}
 }
-
-package PacoteJava;
-
-import java.util.Scanner;
 
 public class Exercicio5DoWhile {
 
