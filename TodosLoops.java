@@ -65,8 +65,7 @@ public class Exercicio5DoWhile {
 			{
 				somaPositivos += n;
 			}
-		}
-		while(n != 0);
+		}while(n != 0);
 		
 		System.out.printf("A soma dos números positivos é: "+somaPositivos);
 	}
