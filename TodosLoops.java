@@ -26,13 +26,6 @@ public class Exercicio2For {
 		System.out.printf("\nTotal de números impares "+ contImpar);
 	}
 }
-
-public class Exercicio3While {
-	public static void main(String args[])
-	{
-		Scanner ler = new Scanner(System.in);
-		int menor21=0, maior50=0, idade=0;
-		
 		while(idade >= 0)
 		{
 			System.out.printf("Entre com a sua idade: ");
@@ -51,10 +44,6 @@ public class Exercicio3While {
 		System.out.println("Total de pessoas maiores de 50 anos: "+maior50);
 	}
 }
-
-public class Exercicio5DoWhile {
-
-	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 		int n, somaPositivos=0;
 		do
